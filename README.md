@@ -5,7 +5,7 @@ I am a passionate Software Development student and web developer with a focus on
 
 ## **Write Me**
 
-[![Gmail](https://img.shields.io/badge/Gmail-Brayan_Mercado-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](brymsx@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-brymsx@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayan_Mercado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brayan-mercado-sanmart%C3%ADn-8a69821b1/)
 [![Twitter](https://img.shields.io/badge/Twitter-@BreimDev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/BreimDev)
 
@@ -16,9 +16,9 @@ I am a passionate Software Development student and web developer with a focus on
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Node.js](https://img.shields.io/badge/Nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![Next.js](https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)]()
 [![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 
 ## **Academic Formation**
