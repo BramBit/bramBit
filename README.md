@@ -1,6 +1,5 @@
 ### Hi I'm Brayan Mercado (Breims) 👋
-![Cover](https://github.com/Breims/Breims/assets/128324365/585b0547-3e60-4872-9daf-6836300bb51c)
- <div>
+<div>
         <h1><b>PROFILE</b></h1>
         <p>I am a passionate and self-taught software development technology student, with a specialized focus on web development. Through independent study and career contributions, I have acquired solid knowledge in web programming languages, frameworks, front-end and back-end technologies, as well as database design. I am looking for opportunities to apply and expand my skills in a challenging and collaborative work environment.
         </p>
