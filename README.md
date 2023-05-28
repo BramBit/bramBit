@@ -5,7 +5,7 @@ I am a passionate Software Development student and web developer with a focus on
 
 ## **Write Me**
 
-[![Gmail](https://img.shields.io/badge/Gmail-brymsx@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+[![Gmail](https://img.shields.io/badge/Gmail-Brayan_Mercado-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brymsx@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayan_Mercado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brayan-mercado-sanmart%C3%ADn-8a69821b1/)
 [![Twitter](https://img.shields.io/badge/Twitter-@BreimDev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/BreimDev)
 
@@ -25,5 +25,4 @@ I am a passionate Software Development student and web developer with a focus on
 - **Food Engineer**
 - **Software Test Processing Technician** - in process
 - **Software Development Technology** - in process
-
 -->
