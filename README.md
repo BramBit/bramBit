@@ -25,4 +25,3 @@ I am a passionate Software Development student and web developer with a focus on
 - **Food Engineer**
 - **Software Test Processing Technician** - in process
 - **Software Development Technology** - in process
--->
