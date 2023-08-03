@@ -1,7 +1,11 @@
 ### Hi I'm Brayan Mercado (Breim) 👋
 # **<WHO AM I!!>**
 
-I am a passionate Software Development student and web developer with a focus on frontend using React and Tailwind. I have strong knowledge in web programming languages, frameworks, and technologies both on the frontend and backend. I am versatile and can quickly adapt to new technologies, which helps me stay updated on the latest practices and tools. I enjoy creating attractive and functional user interfaces and collaborating with teams to deliver high-quality web experiences. My goal is to continue growing as a web developer, contribute to challenging projects, and provide innovative solutions. I am excited about new opportunities and challenges that await me in the world of web development!.
+Frontend-focused Web Developer with expertise in web-oriented programming languages such as JavaScript and TypeScript. Additionally, I possess strong knowledge of Next.js, React, Astro, and Svelte. As for CSS, I have an advanced command of Tailwind CSS.
+
+I am a versatile individual and quickly adapt to new technologies. I enjoy exploring emerging technologies, which helps me stay up-to-date with the latest practices and tools. My passion lies in creating attractive and functional user interfaces and collaborating with teams to deliver high-quality web experiences.
+
+My goal is to continue growing as a web developer, contribute to challenging projects, and offer innovative solutions. I am excited about the new opportunities and challenges that await me in the world of web development.
 
 ## **Write Me**
 
