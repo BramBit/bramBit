@@ -1,6 +1,6 @@
 # Hola, soy Brayan Mercado (Breim) 👋
 
-## **¿Te preguntarás, ¿quién soy?**
+## **Te preguntarás, ¿quién soy?**
 
 Como Desarrollador Web, mi pasión radica en la creación de experiencias digitales excepcionales que cautivan a los usuarios. Mis habilidades se centran en lenguajes esenciales como JavaScript y TypeScript, y mi experiencia abarca una variedad de tecnologías de vanguardia, como Next.js, React, Astro y Svelte. Estas herramientas me permiten desarrollar interfaces atractivas y altamente funcionales.
 
