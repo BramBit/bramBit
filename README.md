@@ -2,11 +2,13 @@
 
 ## **Te preguntarás, ¿quién soy?**
 
-Como Desarrollador Web, mi pasión radica en la creación de experiencias digitales excepcionales que cautivan a los usuarios. Mis habilidades se centran en lenguajes esenciales como JavaScript y TypeScript, y mi experiencia abarca una variedad de tecnologías de vanguardia, como Next.js, React, Astro y Svelte. Estas herramientas me permiten desarrollar interfaces atractivas y altamente funcionales.
+Organizado y apasionado por el desarrollo de software y la arquitectura de software.
 
-Mi enfoque colaborativo se evidencia en mi capacidad para integrarme sin problemas en equipos multidisciplinarios, donde aporto soluciones creativas que fusionan diseño y funcionalidad.
+Mi enfoque metódico me permite abordar los desafíos con eficiencia y eficacia, mientras que mi actitud abierta y mente creativa me impulsan a adquirir constantemente nuevos conocimientos y encontrar soluciones innovadoras.
 
-Estoy entusiasmado por las infinitas posibilidades que el mundo del desarrollo web tiene para ofrecer, y anhelo ser parte de los proyectos que marcan la diferencia en la experiencia digital.
+Soy un colaborador confiable en equipo, combinando mi habilidad para coordinar esfuerzos con una profunda dedicación a la creación de software de alto impacto.
+
+Enfocado en crear soluciones robustas y de alta calidad, estoy preparado para aportar mi experiencia y pasión a proyectos desafiantes.
 
 GitHub Segundario --> https://github.com/BramsLF
 
@@ -26,4 +28,3 @@ GitHub Segundario --> https://github.com/BramsLF
 ## **Formación Académica**
 - **Ingeniero de Alimentos**
 - **Tecnología en Desarrollo de Software** - en proceso
-- **Técnico en Procesos de Pruebas de Software** - en proceso
