@@ -1,5 +1,5 @@
 # Hola! 👋
-![Profile](https://media.licdn.com/dms/image/v2/D4E16AQEVixXamqd8hA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726973837074?e=1748476800&v=beta&t=_uRrF6rNTd55tdADDYiQoCkxpAwtx6HWIG-MsBClu5w)
+![Profile](https://media.licdn.com/dms/image/v2/D4E16AQEVixXamqd8hA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726973837074?e=1756339200&v=beta&t=7gRSWfHKZp87cHLqJ1pwh2CDprxdAejvrppB66lXBPc)
 
 ## **¿quién soy?**
 
