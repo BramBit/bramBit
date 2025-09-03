@@ -2,7 +2,7 @@
 
 ---
 
-### (brayanmercado) 👋💻
+### (bram) 👋💻
 # **WHO AM I?**
 
 Fullstack Developer with over 2 years of professional experience, specialized in building robust, scalable, and business-oriented solutions.  
