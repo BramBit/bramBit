@@ -4,7 +4,7 @@
 ### (bram) 👋💻
 # **WHO AM I?**
 
-Backend Developer with 2.5 years of professional experience building production systems — from IoT device management platforms to e-learning APIs with semantic search powered by AI.  
+Backend Developer with 3 years of professional experience building production systems — from IoT device management platforms to e-learning APIs with semantic search powered by AI.  
 I've worked in **agile environments (Scrum)** across the full development cycle — from architecture design to production deployment.
 
 - 💡 Passionate about **clean and well-defined architectures** — **DDD**, **Hexagonal (Ports & Adapters)**, **CQRS** and event-driven systems.
