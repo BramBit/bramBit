@@ -1,104 +1,49 @@
 ![Profile](https://github.com/user-attachments/assets/79567bf4-72dc-4825-882d-f12d7e5fe76b)
 
----
-### (bram) 👋💻
-# **WHO AM I?**
+# Brayan Mercado Sanmartín
 
-Backend Developer with 3 years of professional experience building production systems — from IoT device management platforms to e-learning APIs with semantic search powered by AI.  
-I've worked in **agile environments (Scrum)** across the full development cycle — from architecture design to production deployment.
+Backend developer specialized in TypeScript, with production experience across IoT platforms, e-learning systems, and AI-powered search.
 
-- 💡 Passionate about **clean and well-defined architectures** — **DDD**, **Hexagonal (Ports & Adapters)**, **CQRS** and event-driven systems.
-- 🤖 Experienced in building **RAG pipelines and LLM integrations** in production (pgvector, LangChain, Ollama, OpenAI).
-- 🔭 Focused on code maintainability, testability, and delivering real business impact.
-- 🌱 Continuously learning — currently deepening distributed systems and AI engineering.
-- 💬 Open to new opportunities, collaborations, or just a good tech chat.
+## About
 
----
+I work end-to-end, from domain modeling to deployment, trying to keep architecture clean, testable, and safe to change. Most of my recent work centers on Domain-Driven Design and Hexagonal Architecture, with a growing focus on integrating AI components — RAG pipelines, hybrid search, LLM orchestration — without letting them leak into core business logic.
 
-# 🛠️ Technologies & Tools
+Open to backend, full-stack, or backend/AI roles, remote or based in Medellín, Colombia.
 
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)
+## Experience
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=101010)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=101010)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010)
+**Alaska Tech** — Co-founder & Full Stack Developer · 2023–present
+Designed and built the backend for VeciApp, a multi-role marketplace for small merchants in Santa Marta (~300 registered businesses): JWT authentication, geolocation with PostGIS, Wompi payment integration, and an admin panel in React.
 
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=101010)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)
+**Belvi Digital** — Backend Developer · 2023–2026
+Worked on Zeus (IoT platform) and Plei (e-learning). Designed a production RAG system from scratch — chunking, embeddings, pgvector — and a hybrid search engine combining vector similarity, full-text search, and trigram matching, fused with Reciprocal Rank Fusion. Built a provider-agnostic LLM abstraction layer using the Strategy pattern.
 
-### AI & LLM
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=101010)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white&labelColor=101010)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)
-![Whisper](https://img.shields.io/badge/Whisper_STT-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)
+## Featured projects
 
-### DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=101010)
-![AWS](https://img.shields.io/badge/AWS_ECS/ECR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=101010)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=101010)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=101010)
+**Product Checkout Platform**
+Full checkout flow built under a 3-day technical assessment. Hexagonal architecture with no ORM, Railway-Oriented Programming for expected business errors, resilient async payment polling with state recovery on page reload, and 99%+ test coverage.
+[Repo](https://github.com/BramBit/product-checkout-platform) · [Live demo](https://product-checkout-platform-web.vercel.app) · [API docs](https://product-checkout-platform.onrender.com/docs)
 
-### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&labelColor=101010)
-![Cucumber](https://img.shields.io/badge/Cucumber_BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white&labelColor=101010)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white&labelColor=101010)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white&labelColor=101010)
+**Plei — Hybrid Search & RAG**
+Semantic, lexical, and trigram search over course content combined with Reciprocal Rank Fusion, plus a RAG pipeline for contextual Q&A.
 
----
+**VeciApp**
+Multi-role marketplace backend: authentication, geolocation, payments, and an admin dashboard consuming the same APIs it exposes.
 
-# 🧠 Architectures I Apply
-- **Hexagonal Architecture (Ports & Adapters)** — domain fully decoupled from infrastructure
-- **Domain-Driven Design (DDD)** — bounded contexts, aggregates, value objects, domain events
-- **CQRS + Event-Driven** — async event bus with RabbitMQ, command/query separation
-- **RAG Pipelines** — embeddings, vector search (pgvector), LLM response generation
-- Layered separation, SOLID principles, and clearly defined responsibilities
+**Avatar Interview**
+Real-time conversational avatar: WebSocket → speech-to-text → LLM → text-to-speech, orchestrated across five microservices with FastAPI, with mirrored state machines on client and server.
 
----
+## Stack
 
-# 🚀 Projects
+**Backend** — TypeScript, Node.js, Express, NestJS, Laravel, Python (FastAPI)
+**Frontend** — React, Next.js, Redux Toolkit
+**Data** — PostgreSQL, pgvector, Redis, MySQL
+**Architecture** — Domain-Driven Design, Hexagonal Architecture, CQRS, event-driven systems (RabbitMQ)
+**AI / LLM** — RAG pipelines, embeddings, hybrid search, provider-agnostic LLM integration (Ollama, OpenAI-compatible APIs)
+**Infra & testing** — Docker, AWS ECS, Azure DevOps, Nginx, Jest, Vitest, Playwright
 
-### Zeus — IoT Platform
-Backend for medical device management. TypeScript/Express with full Hexagonal + DDD architecture, CQRS, RabbitMQ event bus, and CI/CD on AWS ECS via Azure DevOps.
+## Contact
 
-### Plei API — E-learning with AI
-Laravel API with a complete RAG/SmartSearch system: pgvector embeddings, swappable Ollama/OpenAI strategy pattern, async embedding jobs, Redis cache.
-
-### VeciApp — Marketplace Platform
-Multi-role marketplace backend with real-time chat (Socket.IO), dual payments (Stripe + Mercado Pago), geospatial search (PostGIS) and push notifications (Firebase).
-
-### Avatar Interview — AI Interview System
-Intelligent avatar powered by a WebSocket → Whisper STT → Ollama LLM → Piper TTS pipeline. 5 microservices orchestrated by FastAPI, XState state machines mirrored on both ends.
-
----
-
-### Co-founder of:
-[![Alaska Tech](https://img.shields.io/badge/Alaska_Tech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/company/alaskatech/)
-
-At Alaska Tech we build digital products for real clients — focused on technical quality and business impact.
-
----
-
-# 📫 Contact Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-brayan.msanmartin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:brayan.msanmartin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayan_Mercado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/brayan-mercado-sanmartin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-brayanmercado.dev-6366F1?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://tu-portfolio.vercel.app)
-
----
-
-> "It's not just about writing code. It's about building something that makes an impact." – Brayan Mercado
+- Email: brayan.msanmartin@gmail.com
+- LinkedIn: [linkedin.com/in/brayan-mercado-sanmartin](https://www.linkedin.com/in/brayan-mercado-sanmartin/)
+- GitHub: [github.com/BramBit](https://github.com/BramBit)
