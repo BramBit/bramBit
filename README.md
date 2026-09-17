@@ -1,4 +1,4 @@
-![Profile](https://github.com/user-attachments/assets/79567bf4-72dc-4825-882d-f12d7e5fe76b)
+![Profile](https://github.com/user-attachments/assets/7bcff0ec-8a99-487c-a69d-013b10c39078)
 
 # Brayan Mercado Sanmartín
 
